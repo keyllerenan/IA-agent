@@ -1,5 +1,6 @@
 # IA-agent
 AI Automation for Stock Verification
 
-[x] Create agent
-[] knowing framework 
+- [x] Creating agent
+- [x] Analyst agent - framework
+- [] Deploy
